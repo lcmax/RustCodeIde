@@ -3,7 +3,7 @@
     <h1>RustCode IDE</h1>
     <h3>为 Rust 开发者打造的开源 IDE · 派生于 VSCodium / Visual Studio Code</h3>
     <p>
-        <strong>简体中文</strong> · <a href="./README.en.md">English</a>
+        <strong>简体中文</strong> · <a href="./README-EN.md">English</a>
     </p>
     <p>
         <a href="https://github.com/lcmax/RustCode"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-lcmax%2FRustCode-blue" /></a>
