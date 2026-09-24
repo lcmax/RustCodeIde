@@ -29,6 +29,9 @@
 - **Modernized UI** — a title bar with project menu and a global search box, plus a built-in Chat panel (Doubao / Qwen / DeepSeek AI services).
 - **Dedicated user data directory** — extensions and config live under `~/.rustcode`, isolated from other editor distributions.
 
+![Uploading image.png…]()
+
+
 ## Download & Install
 
 A portable Windows build is currently provided (no installation required):
