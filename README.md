@@ -36,7 +36,7 @@
 
 | 平台 | 产物 |
 |------|------|
-| Windows x64 | `VSCode-win32-x64-new2/`（直接运行 `RustCode.exe`） |
+| Windows x64 | [下载](https://github.com/lcmax/RustCodeIde/releases/download/v0.26.8%2Bbuild.15.2/VSCode-win32-x64.zip) |
 
 - 用户数据目录：`%USERPROFILE%\.rustcode`
 - 主程序：`RustCode.exe`（界面显示名仍为 “RustCode IDE”）
