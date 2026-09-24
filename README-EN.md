@@ -37,7 +37,7 @@ A portable Windows build is currently provided (no installation required):
 
 | Platform | Artifact |
 |----------|----------|
-| Windows x64 | `VSCode-win32-x64-new2/` (run `RustCode.exe` directly) |
+| Windows x64 | [download](https://github.com/lcmax/RustCodeIde/releases/download/v0.26.8%2Bbuild.15.2/VSCode-win32-x64.zip) |
 
 - User data directory: `%USERPROFILE%\.rustcode`
 - Main executable: `RustCode.exe` (display name remains "RustCode IDE")
