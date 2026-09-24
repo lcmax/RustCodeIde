@@ -14,6 +14,8 @@
 
 ## Introduction
 
+<img width="1935" height="1023" alt="image" src="https://github.com/user-attachments/assets/f48a6d7b-bb16-415a-928c-a3a1be7b9dc7" />
+
 **RustCode IDE** is an open-source IDE built for Rust development, customized from **VSCodium** — the MIT-licensed, freely-licensed build of Microsoft's Visual Studio Code. It keeps the full editing experience of VS Code while shipping with a complete, ready-to-use Rust toolchain, removes Microsoft trademarks and telemetry, and defaults to the open-source extension marketplace [open-vsx.org](https://open-vsx.org/).
 
 > **Where does it come from?** This project is derived from [VSCodium](https://github.com/VSCodium/vscodium), which in turn is the MIT-licensed build of Microsoft's [Visual Studio Code](https://github.com/microsoft/vscode) source. RustCode IDE therefore also builds on the MIT-licensed VS Code source, with telemetry disabled by default.
@@ -28,11 +30,6 @@
 - **Open-source marketplace** — extensions are served from [open-vsx.org](https://open-vsx.org/) (the Visual Studio Marketplace license does not permit non-official builds).
 - **Modernized UI** — a title bar with project menu and a global search box, plus a built-in Chat panel (Doubao / Qwen / DeepSeek AI services).
 - **Dedicated user data directory** — extensions and config live under `~/.rustcode`, isolated from other editor distributions.
-
-
-<img width="1935" height="1023" alt="image" src="https://github.com/user-attachments/assets/f48a6d7b-bb16-415a-928c-a3a1be7b9dc7" />
-
-
 
 ## Download & Install
 
