@@ -13,7 +13,7 @@
 </div>
 
 ## 简介
-<img width="1915" height="1129" alt="image" src="https://github.com/user-attachments/assets/b21c4b6d-ab7e-464f-a738-71480b5d9150" />
+<img width="1935" height="1023" alt="image" src="https://github.com/user-attachments/assets/f48a6d7b-bb16-415a-928c-a3a1be7b9dc7" />
 
 **RustCode IDE** 是一款面向 Rust 开发的开源 IDE，基于 **VSCodium**（微软 Visual Studio Code 的 MIT 开源构建）定制而成。它在保留 VS Code 强大编辑体验的同时，开箱即用地内置了完整的 Rust 开发工具链，移除了微软商标与遥测，默认使用开源扩展市场 [open-vsx.org](https://open-vsx.org/)。
 
